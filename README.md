@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellowebscc" alt="hellowebscc" /></a> </p>
 
-- 🔭 I’m currently working on **bash scripting**
+- 🔭 I’m currently working on **ejpt certification**
 
 - 🌱 I’m currently learning **ethical hacking essentials**
 
